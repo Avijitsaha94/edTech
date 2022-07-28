@@ -1,0 +1,15 @@
+.trusted-company-h1 {
+    font-size: 45px;
+}
+
+.custom-bg-color-1 {
+    background-color: #289BDE;
+}
+
+.custom-text-color-1 {
+    color: #289BDE !important;
+}
+
+.register-btn:hover {
+    color: #289BDE !important;
+}
